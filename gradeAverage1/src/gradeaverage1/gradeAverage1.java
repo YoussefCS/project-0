@@ -6,7 +6,7 @@ public class gradeAverage1 {
         double average;
         average=(userScore1+userScore2+userScore3+userScore4+userScore5)/5;
         return average;   
-    
+        //hi//
     }
      public static String determineGrade(double testScore){ 
         String letterGrade= " ";
